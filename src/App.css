@@ -1,0 +1,14 @@
+
+.board-row {
+  display: flex;
+  justify-content: center;
+  .square {
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    height: 50px;
+    width: 50px;
+    padding: 0.5rem 0.5rem;
+  }
+}
